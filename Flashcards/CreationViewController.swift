@@ -17,10 +17,7 @@ class CreationViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
     
-    
-    
     @IBOutlet weak var questionTextField: UITextField!
-    
     @IBOutlet weak var answerTextField: UITextField!
     
     @IBAction func didTapOnDone(_ sender: Any) {

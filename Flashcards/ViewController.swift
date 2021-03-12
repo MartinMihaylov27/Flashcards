@@ -17,6 +17,15 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
    
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        
+        let navigationController = segue.destination as! UINavigationController
+        
+        let creationController = navigationController.topViewController as! CreationViewController
+        
+        creationController.flashcardsController = self
+        
+    }
     
     @IBAction func didTapOnFlashcard(_ sender: Any) {
         
@@ -33,14 +42,6 @@ class ViewController: UIViewController {
         backLabel.text = answer
     }
     
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        
-        let navigationController = segue.destination as! UINavigationController
-        
-        let creationController = navigationController.topViewController as! CreationViewController
-        
-        creationController.flashcardsController = self
-        
-    }
+    
 }
 
