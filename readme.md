@@ -7,7 +7,7 @@ You can now create your own flashcards by entering your own question and answer.
 
 ### App Walk-though
 
-<img src="https://imgur.com/a/oPXaZgR" width=200><br>
+<img src="https://imgur.com/WUeKkq3" width=200><br>
 
 ## Required
 - [x] User can open the creation screen
