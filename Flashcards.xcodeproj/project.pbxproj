@@ -13,6 +13,7 @@
 		3056237A25E19581003DE82A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3056237825E19581003DE82A /* Main.storyboard */; };
 		3056237C25E19582003DE82A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3056237B25E19582003DE82A /* Assets.xcassets */; };
 		3056237F25E19582003DE82A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3056237D25E19582003DE82A /* LaunchScreen.storyboard */; };
+		30B36C3C25FBF0DF00E16FBE /* CreationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30B36C3B25FBF0DF00E16FBE /* CreationViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3056237B25E19582003DE82A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3056237E25E19582003DE82A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3056238025E19582003DE82A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		30B36C3B25FBF0DF00E16FBE /* CreationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreationViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				3056237425E19581003DE82A /* SceneDelegate.swift */,
 				3056237625E19581003DE82A /* ViewController.swift */,
 				3056237825E19581003DE82A /* Main.storyboard */,
+				30B36C3B25FBF0DF00E16FBE /* CreationViewController.swift */,
 				3056237B25E19582003DE82A /* Assets.xcassets */,
 				3056237D25E19582003DE82A /* LaunchScreen.storyboard */,
 				3056238025E19582003DE82A /* Info.plist */,
@@ -140,6 +143,7 @@
 				3056237725E19581003DE82A /* ViewController.swift in Sources */,
 				3056237325E19581003DE82A /* AppDelegate.swift in Sources */,
 				3056237525E19581003DE82A /* SceneDelegate.swift in Sources */,
+				30B36C3C25FBF0DF00E16FBE /* CreationViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
