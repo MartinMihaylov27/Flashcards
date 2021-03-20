@@ -9,7 +9,7 @@ The app is now fully functional!!! You could create new flashcards and switch be
 
 <img src="https://i.imgur.com/kYOlWsO.gif" width=200><br>
 
-<img src="https://i.imgur.com/JREmUVV.gif" width=200><br>
+<img src="https://i.imgur.com/LoSaiMK.gif" width=200><br>
 
 
 ## Required
