@@ -1,5 +1,29 @@
 ## Flashcard app
 
+## Lab 4
+
+### App Description
+The app is now not only fully functional, but has an app icon, a splash screen, and animations.
+
+### App Walk-though
+
+<img src="https://i.imgur.com/Lia94VS.gif" width=200><br>
+
+<img src="https://i.imgur.com/s8z1Jn2.png" width=200><br>
+
+## Required
+- [-] User should see the app icon 
+- [-] User should see a splash screen
+- [-] User should see an flip animation when revealing the answer
+- [-] User should see a slide animation when going to the next flashcard
+- [-] User should see a slide animation when going to the previous flashcard
+- [-] Push code to GitHub
+## Optional
+- [ ] User should see a nicer flaschard with rounded corners, shadows, and animating when showing the first time
+- [ ] User should see all views properly layout when using the app on a phone of different sizes
+- [ ] Correct answer in multiple choice should be random
+
+
 ## Lab 3
 
 ### App Description
